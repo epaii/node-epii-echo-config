@@ -1,0 +1,19 @@
+{
+  "name": "epii-echo-config",
+  "version": "0.0.1",
+  "description": "a smiple config getter of node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epaii/node-epii-echo-config.git"
+  },
+  "keywords": [
+    "config",
+    "node"
+  ],
+  "author": "MrRen-epii",
+  "license": "ISC"
+}
